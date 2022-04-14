@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  azdo-demand-agent:
+  - apiVersion: v2
+    created: "2022-04-08T18:26:42.668487327Z"
+    description: A Helm chart for On Demand Agents - Demand agent
+    digest: 2cf39da51adf669af93db353e0f50a2ca6db141a27c0021435fc99d861dc48c1
+    name: azdo-demand-agent
+    type: application
+    urls:
+    - azdo-demand-agent-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-04-08T17:52:44.325945149Z"
